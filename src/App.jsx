@@ -72,6 +72,7 @@ function App() {
       </main>
 
       {error && <div style={{ color: 'red', marginTop: '10px' }}>{error}</div>}
+      
       <p id='rights'>&copy; 2026 Zikreddin | All rights reserved</p>
     </div>
   )
