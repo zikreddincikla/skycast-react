@@ -142,8 +142,3 @@ h4{
 #rights:hover{
     color: whitesmoke;
 }
-@media (max-width:768px) {
-    #navbar-list{
-        flex-direction: column;
-    }
-}
