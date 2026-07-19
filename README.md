@@ -12,6 +12,8 @@
 
 [Live Demo](https://skycast-react.vercel.app) · [Report a Bug](https://github.com/zikreddincikla) · [Author](https://github.com/zikreddincikla)
 
+🇬🇧 English | [🇹🇷 Türkçe](README.tr.md)
+
 </div>
 
 ---
