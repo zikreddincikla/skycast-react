@@ -82,6 +82,7 @@ a{
     padding: 15px;
     border-radius: 25px;
     transition: 0.3s ease;
+    color: whitesmoke;
 }
 .current-weather:hover{
     transform: scale(1.05);
@@ -114,7 +115,7 @@ a{
     padding: 40px 40px;
     border-radius: 20px;
     transition: 0.3s ease;
-    color: whitesmoke;
+    
 }
 .forecast-day{
     font-size: 40px;
@@ -131,6 +132,7 @@ h4{
 
 .forecast-card:hover{
     transform: scale(1.05);
+    color: whitesmoke;
 }
 #rights{
     height: 100px;
